@@ -42,10 +42,13 @@ steps:
   inputs:
     command: 'build'
     projects: '**/*.csproj'
-- task: CopyFiles@2
+- task: ArchiveFiles@2
   inputs:
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-  displayName: 'Copy Files'
+    rootFolderOrFile: '$(Build.SourceDirectory)'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+    replaceExistingArchive: true
 - task: PublishBuildArtifacts@1
 
   inputs:
