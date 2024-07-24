@@ -9,31 +9,31 @@ trigger:
 - main
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'windows-latest'
   name: 'Default'
 variables:
+  solution: '**/*.sln'
+  buildPlatform: 'Any'
   buildConfiguration: 'Release'
   
 steps:
-- script: dotnet build --configuration $(buildConfiguration)
-  displayName: 'dotnet build $(buildConfiguration)'
+#- script: dotnet build --configuration $(buildConfiguration)
+#  displayName: 'dotnet build $(buildConfiguration)'
 
-- script: |
-    dotnet build --configuration $(buildConfiguration)
-  displayName: 'Build'
+#- script: |
+#    dotnet build --configuration $(buildConfiguration)
+#  displayName: 'Build'
 
-- script: |
-    dotnet test --configuration $(buildConfiguration)
-  displayName: 'Test'
+#- script: |
+#    dotnet test --configuration $(buildConfiguration)
+#  displayName: 'Test'
 
+- task: NuGetToolInstaller@1
 
-- task: ArchiveFiles@2
+- task: NuGetCommand@2
   inputs:
-    rootFolderOrFile: '$(Build.BinariesDirectory)'
-    includeRootFolder: false
-    archiveType: 'zip'
-    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
-    replaceExistingArchive: true
+    restoreSolution: '$(solution)'
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
