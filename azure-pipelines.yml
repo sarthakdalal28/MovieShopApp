@@ -16,4 +16,27 @@ steps:
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
 
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '5.x.x' # Use appropriate .NET SDK version
+    installationPath: $(Agent.ToolsDirectory)/dotnet
+
+- script: |
+    dotnet build --configuration $(buildConfiguration)
+  displayName: 'Build'
+
+- script: |
+    dotnet test --configuration $(buildConfiguration)
+  displayName: 'Test'
+
+- task: CopyFiles@2
+  inputs:
+    Contents: '**/bin/$(buildConfiguration)/**'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+  displayName: 'Copy Files'
 - task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+  displayName: 'Publish Artifact'
