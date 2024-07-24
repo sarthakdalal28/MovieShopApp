@@ -8,10 +8,10 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-
+  name: 'Default'
 variables:
   buildConfiguration: 'Release'
-  name: 'Default'
+  
 steps:
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
