@@ -26,11 +26,6 @@ steps:
     dotnet test --configuration $(buildConfiguration)
   displayName: 'Test'
 
-- task: CopyFiles@2
-  inputs:
-    Contents: '**/bin/$(buildConfiguration)/**'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-  displayName: 'Copy Files'
 
 - task: ArchiveFiles@2
   inputs:
