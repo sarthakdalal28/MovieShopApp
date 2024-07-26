@@ -42,5 +42,9 @@ namespace Infrastructure.Services
             var movieCardModels = paginatedMovies.Data.Select(m => _mapper.Map<MovieCardModel>(m)).ToList();
             return new PaginatedResultSet<MovieCardModel>(movieCardModels, paginatedMovies.PageNumber, paginatedMovies.PageSize, paginatedMovies.TotalCount);
         }
+        public async Task<Movie> GetMovieByTitleAsync(string title)
+        {
+            return await _movieRepository.GetMovieByTitleAsync(title);
+        }
     }
 }

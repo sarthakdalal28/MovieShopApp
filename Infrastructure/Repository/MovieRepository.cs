@@ -60,7 +60,11 @@ namespace Infrastructure.Repository
 
             return new PaginatedResultSet<Movie>(movies, pageNumber, pageSize, totalMoviesCount);
         }
+        public async Task<Movie> GetMovieByTitleAsync(string title)
+        {
+            return await dbContext.Movies
+                                   .FirstOrDefaultAsync(m => m.Title.ToLower().Contains(title.ToLower()));
+        }
 
-  
     }
 }

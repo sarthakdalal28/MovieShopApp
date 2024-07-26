@@ -15,5 +15,6 @@ namespace ApplicationCore.Contracts.Repository
         Task<Movie> GetMovieDetails(int id);
 
         Task<PaginatedResultSet<Movie>> GetMoviesByGenre(int genreId, int pageSize = 30, int pageNumber = 1);
+        Task<Movie> GetMovieByTitleAsync(string title);
     }
 }

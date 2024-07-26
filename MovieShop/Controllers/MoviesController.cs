@@ -41,6 +41,23 @@ namespace MovieShop.Controllers
             ViewBag.GenreId = id;
             return View(movies);
         }
+        [HttpGet]
+        public async Task<IActionResult> Search(string query)
+        {
+            if (string.IsNullOrEmpty(query))
+            {
+                return RedirectToAction("Index", "Home");
+            }
+
+            var movie = await _movieService.GetMovieByTitleAsync(query);
+            if (movie == null)
+            {
+                // Handle movie not found case, you can redirect to an error page or show a message
+                return RedirectToAction("Index", "Home");
+            }
+
+            return RedirectToAction("Details", "Movies", new { id = movie.Id });
+        }
 
     }
 }

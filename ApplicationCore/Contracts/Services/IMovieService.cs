@@ -13,5 +13,6 @@ namespace ApplicationCore.Contracts.Services
         Task<PaginatedResultSet<MovieCardModel>> GetMoviesByGenre(int genreId, int pageSize, int pageNumber);
         Task<Movie> MovieDetails(int id);
         Task<IEnumerable<Movie>> GetTopGrossingMovies();
+        Task<Movie> GetMovieByTitleAsync(string title);
     }
 }

@@ -20,6 +20,36 @@
             height: 50px; /* Adjust the height as needed to achieve the oval shape */
             margin-right: 10px;
         }
+        /* Custom search bar styles */
+        .input-group {
+            background-color: #343a40; /* Background color of the search bar */
+            border-radius: 5px; /* Rounded corners */
+        }
+
+        .input-group-text {
+            background-color: transparent; /* Transparent background for the icon */
+            border: none; /* No border for the icon container */
+            color: #ffffff; /* White color for the icon */
+        }
+
+        .form-control {
+            background-color: #343a40; /* Background color of the input field */
+            border: none; /* No border for the input field */
+            color: #ffffff; /* White text color */
+        }
+
+            .form-control::placeholder {
+                color: #9a9a9a; /* Placeholder text color */
+            }
+
+        .ml-2 {
+            color: #ffffff; /* White color for the shortcut text */
+        }
+
+        .form-inline {
+            flex-grow: 1; /* Allow the form to grow and fill available space */
+            justify-content: flex-end; /* Align the form to the right */
+        }
 
     </style>
 </head>
@@ -44,6 +74,15 @@
                         </div>
                     </li>
                 </ul>
+                <form class="form-inline my-2 my-lg-0" asp-controller="Movies" asp-action="Search" method="get" style="display: flex; align-items: center;">
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-search"></i></span>
+                        </div>
+                        <input class="form-control" type="search" placeholder="Search" aria-label="Search" name="query">
+                    </div>
+                </form>
+
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-light rounded-pill mx-1" href="/Account/Login">Login</a>
