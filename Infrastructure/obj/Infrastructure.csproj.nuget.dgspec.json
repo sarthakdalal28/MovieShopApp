@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }

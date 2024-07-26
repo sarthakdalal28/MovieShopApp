@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {}
+    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarth\\AppData\\Roaming\\NuGet\\NuGet.Config",

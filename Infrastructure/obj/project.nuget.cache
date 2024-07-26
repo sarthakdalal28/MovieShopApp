@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pguYaYE3Rtg=",
+  "dgSpecHash": "r9xsSOwiAFY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\MovieShopApp\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sarth\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\sarth\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
