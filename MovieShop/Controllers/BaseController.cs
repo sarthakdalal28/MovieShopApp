@@ -15,6 +15,7 @@ public class BaseController : Controller
     public override async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
     {
         ViewBag.Genres = await _genreService.GetAllGenres();
+
         await next();
     }
 }

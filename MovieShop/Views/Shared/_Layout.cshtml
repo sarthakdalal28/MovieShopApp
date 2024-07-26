@@ -25,50 +25,42 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" href="/">Movie Shop</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" href="/Home/Index">Home</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="genresDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Genres
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="genresDropdown">
-                                @foreach (var genre in ViewBag.Genres)
-                                {
-                                    <a class="dropdown-item" href="/Movies/Genre/@genre.Id">@genre.Name</a>
-                                }
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" href="/Account/Login">Login</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" href="/Account/Register">Register</a>
-                        </li>
-                    </ul>
-                </div>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">Movie Shop</a><i class="fas fa-film fa-lg" style="color: white;"></i>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="genresDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            GENRES
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="genresDropdown">
+                            @foreach (var genre in ViewBag.Genres)
+                            {
+                                <a class="dropdown-item" href="/Movies/Genre/@genre.Id" style="color: inherit; text-decoration: none;">@genre.Name</a>
+                            }
+                        </div>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-outline-light rounded-pill mx-1" href="/Account/Login">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-outline-light rounded-pill mx-1" href="/Account/Register">Register</a>
+                    </li>
+                </ul>
             </div>
         </nav>
+
     </header>
-    <div class="container">
+    <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - MovieShop - <a href="/Privacy">Privacy</a>
-        </div>
-    </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

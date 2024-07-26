@@ -22,7 +22,8 @@ namespace MovieShop.Controllers
         {
             var movies = await _movieService.GetTopGrossingMovies();
             var genres = await _genreService.GetAllGenres();
-            ViewBag.Genres = genres;
+            var sortedGenres = genres.OrderBy(g => g.Name).ToList();
+            ViewBag.Genres = sortedGenres;
             return View(movies);
         }
 

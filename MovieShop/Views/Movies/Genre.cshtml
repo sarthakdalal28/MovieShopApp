@@ -34,12 +34,12 @@
     var genreId = ViewBag.GenreId;
 }
 
-<div class="container">
+<div class="container-fluid">
     <div class="row">
-        <h2> Genre: @ViewBag.GenreName</h2>
+        @*<h2> Genre: @ViewBag.GenreName</h2>*@
         @foreach (var movie in Model.Data)
         {
-            <div class="col-md-3">
+            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-4">
                 <partial name="_MovieCard" model="movie" />
             </div>
         }
