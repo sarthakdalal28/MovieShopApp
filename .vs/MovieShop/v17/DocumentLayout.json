@@ -3,6 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarth\\OneDrive\\Desktop\\MovieShopTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\movies\\genre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\movies\\genre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,10 +54,6 @@
       "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\cast\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\cast\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -47,16 +70,8 @@
       "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\infrastructure\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -99,10 +114,6 @@
       "RelativeMoniker": "D:0:0:{E8FCED3D-7311-4C95-9CAF-130D8FC2C5E7}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\components\\genresviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\components\\genresviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -121,10 +132,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\infrastructure\\data\\movieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7EB85C-B22E-4C0D-913C-C6097996B6D0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\movieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\movieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A9E038E-9E93-47A2-9E35-6F8ED737500C}|MovieShop\\MovieShop.csproj|solutionrelative:movieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8FCED3D-7311-4C95-9CAF-130D8FC2C5E7}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\sarth\\onedrive\\desktop\\antra\\antra-assignments\\mvc\\solution\\movieshop\\applicationcore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -262,7 +269,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -270,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Genre.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Movies\\Genre.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Movies\\Genre.cshtml",
@@ -278,50 +285,11 @@
               "RelativeToolTip": "MovieShop\\Views\\Movies\\Genre.cshtml",
               "ViewState": "AQIAABAAAAAAAAAAAAAwwCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T03:32:58.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T03:32:58.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "MovieShop\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "MovieShop\\Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T19:14:26.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\MovieService.cs",
-              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\MovieService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T18:49:04.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenreService.cs",
-              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\GenreService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\GenreService.cs",
-              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\GenreService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\GenreService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAApwCgAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T22:39:01.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "_MovieCard.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\_MovieCard.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_MovieCard.cshtml",
@@ -333,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\Error.cshtml",
@@ -345,19 +313,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Movies\\Details.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Movies\\Details.cshtml",
               "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Movies\\Details.cshtml",
               "RelativeToolTip": "MovieShop\\Views\\Movies\\Details.cshtml",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGUAAACrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T05:05:17.729Z"
+              "WhenOpened": "2024-07-19T05:05:17.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Movies\\index.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Movies\\index.cshtml",
@@ -369,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MovieShop\\Controllers\\HomeController.cs",
@@ -377,12 +346,11 @@
               "RelativeToolTip": "MovieShop\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T03:47:37.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T03:47:37.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IGenreService.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Services\\IGenreService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IGenreService.cs",
@@ -390,12 +358,11 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IGenreService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T22:36:09.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T22:36:09.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "GenreRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\GenreRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\GenreRepository.cs",
@@ -403,12 +370,122 @@
               "RelativeToolTip": "Infrastructure\\Repository\\GenreRepository.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwDAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T22:41:36.627Z",
+              "WhenOpened": "2024-07-21T22:41:36.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\appsettings.json",
+              "RelativeToolTip": "MovieShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T04:22:06.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Program.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Program.cs",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Program.cs",
+              "RelativeToolTip": "MovieShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:21:09.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T05:24:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MovieShop\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-26T01:13:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\MovieRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:48:29.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieShopTables.sql",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\MovieShopTables.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\MovieShopTables.sql",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\MovieShopTables.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MovieShopTables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-24T03:58:20.92Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\GenreService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GenreService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAApwCgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:39:01.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\MovieService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:49:04.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieShop\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:14:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Home\\Index.cshtml",
@@ -420,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Cast\\Details.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Cast\\Details.cshtml",
@@ -432,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\Components\\Genres\\Default.cshtml",
               "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\Components\\Genres\\Default.cshtml",
@@ -444,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\Movie.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Movie.cs",
@@ -456,31 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MovieShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T05:24:08.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\MovieRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\MovieRepository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T18:48:29.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "MovieCardModel.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\MovieCardModel.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\MovieCardModel.cs",
@@ -492,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "IMovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Repository\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IMovieRepository.cs",
@@ -504,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\MappingProfile.cs",
               "RelativeDocumentMoniker": "MovieShop\\MappingProfile.cs",
@@ -516,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Cast.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\Cast.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Cast.cs",
@@ -528,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "IMovieService.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Services\\IMovieService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IMovieService.cs",
@@ -540,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "MovieShop\\Controllers\\BaseController.cs",
@@ -552,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "CastController.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Controllers\\CastController.cs",
               "RelativeDocumentMoniker": "MovieShop\\Controllers\\CastController.cs",
@@ -564,19 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Program.cs",
-              "RelativeDocumentMoniker": "MovieShop\\Program.cs",
-              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Program.cs",
-              "RelativeToolTip": "MovieShop\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAiwDkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:21:09.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "CastService.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Services\\CastService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CastService.cs",
@@ -588,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "GenresViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Components\\GenresViewComponent.cs",
               "RelativeDocumentMoniker": "MovieShop\\Components\\GenresViewComponent.cs",
@@ -600,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\Repository.cs",
@@ -612,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\UserRole.cs",
@@ -624,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "PaginatedResultSet.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\PaginatedResultSet.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\PaginatedResultSet.cs",
@@ -636,19 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\appsettings.json",
-              "RelativeDocumentMoniker": "MovieShop\\appsettings.json",
-              "ToolTip": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\appsettings.json",
-              "RelativeToolTip": "MovieShop\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-18T04:22:06.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "MovieShopDbContext.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Data\\MovieShopDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\MovieShopDbContext.cs",
@@ -660,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\User.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\User.cs",
@@ -672,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Repository\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IAsyncRepository.cs",
@@ -684,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ICastRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Repository\\ICastRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\ICastRepository.cs",
@@ -696,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\UserRepository.cs",
@@ -708,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\Genre.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Genre.cs",
@@ -720,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IUserRepository.cs",
@@ -732,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IRepository.cs",
@@ -744,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "IGenreRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Repository\\IGenreRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IGenreRepository.cs",
@@ -756,7 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\MovieShop\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MovieShop\\Properties\\launchSettings.json",
@@ -768,7 +797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CastRepository.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Repository\\CastRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\CastRepository.cs",
@@ -780,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "MovieGenre.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\MovieGenre.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\MovieGenre.cs",
@@ -792,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "GenreModel.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Models\\GenreModel.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Models\\GenreModel.cs",
@@ -804,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Contracts\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IUserService.cs",
@@ -816,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "20240719174550_Tagline_in_Movies.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240719174550_Tagline_in_Movies.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240719174550_Tagline_in_Movies.cs",
@@ -828,7 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Review.cs",
@@ -840,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "MovieCast.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\MovieCast.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\MovieCast.cs",
@@ -852,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Purchase.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\Purchase.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Purchase.cs",
@@ -864,7 +893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Role.cs",
@@ -876,7 +905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "20240718044113_UpdatedDate_is_nullable.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718044113_UpdatedDate_is_nullable.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718044113_UpdatedDate_is_nullable.cs",
@@ -888,7 +917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "20240718044025_Columns_is_nullable.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718044025_Columns_is_nullable.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718044025_Columns_is_nullable.cs",
@@ -900,7 +929,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "20240718043833_CreatedDate_is_nullable.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718043833_CreatedDate_is_nullable.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718043833_CreatedDate_is_nullable.cs",
@@ -912,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "20240718043709_Price_is_nullable.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718043709_Price_is_nullable.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718043709_Price_is_nullable.cs",
@@ -924,7 +953,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "20240718043550_Tagline_typ.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718043550_Tagline_typ.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718043550_Tagline_typ.cs",
@@ -936,7 +965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "20240718043443_TagLine_Added_to_Movies_table.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718043443_TagLine_Added_to_Movies_table.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718043443_TagLine_Added_to_Movies_table.cs",
@@ -948,7 +977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "20240718042839_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718042839_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718042839_InitialCreate.cs",
@@ -960,7 +989,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "20240718042612_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718042612_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718042612_InitialCreate.cs",
@@ -971,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "20240718042507_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718042507_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718042507_InitialCreate.cs",
@@ -982,7 +1011,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "20240718042413_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Migrations\\20240718042413_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240718042413_InitialCreate.cs",
@@ -993,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "ApplicationCore.csproj",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
               "RelativeDocumentMoniker": "ApplicationCore\\ApplicationCore.csproj",
@@ -1005,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
@@ -1017,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sarth\\OneDrive\\Desktop\\Antra\\Antra-Assignments\\MVC\\Solution\\MovieShop\\ApplicationCore\\Class1.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Class1.cs",

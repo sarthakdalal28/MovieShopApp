@@ -46,3 +46,10 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
+.img-oval {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 50px; /* Adjust the width as needed */
+    height: 75px; /* Adjust the height as needed to achieve the oval shape */
+    margin-right: 10px;
+}
